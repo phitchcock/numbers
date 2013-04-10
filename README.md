@@ -1,1 +1,3 @@
-Numbers in Words Sinatra
+Numbers in Words Sinatra 
+
+* Deploy to Heroku
